@@ -1,7 +1,7 @@
 # TaskFlow – Because To-Do Lists Are Too Mainstream
 Welcome to TaskFlow, the app that lets you log your tasks and track them in LeetCode-style tiles because checking off a boring list just isn’t satisfying enough. Built with Streamlit (because, of course), TaskFlow makes sure you have one more thing to procrastinate on before actually doing your tasks.
 
- What Does It Do?
+# What Does It Do?
 You add tasks.
 You track tasks.
 You feel accomplished (without actually doing much).
