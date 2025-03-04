@@ -18,3 +18,7 @@ Because regular to-do lists are too judgmental, and this one at least makes you 
 
 # Will It Change Your Life?
 Absolutely, But it might make tracking your unfinished work slightly less soul-crushing.
+
+# It looks like this
+![Image 1](pic1.png)
+
